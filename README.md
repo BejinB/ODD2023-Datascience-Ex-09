@@ -3,10 +3,10 @@
 ## AIM
 To Perform Data Visualization on a complex dataset and save the data to a file. 
 
-# Explanation
+## Explanation
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -16,10 +16,11 @@ Apply Feature generation and selection techniques to all the features of the dat
 ### STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 
-# CODE AND OUTPUT:
-Name: AAKASH P
-
-Reg no:212222110001
+## CODE AND OUTPUT:
+```
+Developed by: BEJIN B
+Reg no:212222230021
+```
 ```
 import seaborn as sns
 import pandas as pd
@@ -123,5 +124,5 @@ plt.show()
 ```
 <img width="280" alt="278807977-67b651a6-ac90-4793-8d11-b99af66067ca" src="https://github.com/Aakash0407/ODD2023-Datascience-Ex-09/assets/118799103/941a96e5-c9c7-4f2c-a179-ba56c10560d4">
 
-# RESULT:
+## RESULT:
 Thus, Data Visualization on a complex dataset and save the data to a file has been performed successfully.
